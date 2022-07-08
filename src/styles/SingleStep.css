@@ -1,0 +1,19 @@
+.single-step-single-step {
+  width: fit-content;
+  display: inline-block;
+}
+.single-step-step-number {
+  width: 50px;
+  height: 50px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.single-step-text {
+  color: var(--dl-color-primary-100);
+}
+.single-step-text2 {
+  color: rgba(235, 1, 1, 1);
+}

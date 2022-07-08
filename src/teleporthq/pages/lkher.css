@@ -1,0 +1,102 @@
+.lkher-container {
+  width: 100%;
+  padding: var(--dl-space-space-large);
+  min-height: 100vh;
+  background-color: var(--dl-color-primary-100);
+}
+.lkher-image {
+  top: -31px;
+  left: -32px;
+  width: 258px;
+  height: 237px;
+  position: absolute;
+  object-fit: cover;
+}
+.lkher-omni-logo {
+  width: 167px;
+  height: 45px;
+  object-fit: cover;
+  margin-bottom: var(--dl-space-space-large);
+}
+.lkher-container1 {
+  margin-bottom: var(--dl-space-space-medium);
+}
+.lkher-text03 {
+  width: 80%;
+  margin-bottom: var(--dl-space-space-extralarge);
+}
+.lkher-image1 {
+  width: 178px;
+  height: 49px;
+  object-fit: cover;
+  margin-bottom: var(--dl-space-space-large);
+}
+.lkher-text04 {
+  opacity: 0.5;
+  margin-bottom: var(--dl-space-space-small);
+}
+.lkher-text05 {
+  opacity: 0.5;
+  margin-bottom: var(--dl-space-space-small);
+}
+.lkher-text07 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.lkher-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lkher-text09 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.lkher-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.lkher-text11 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+@media(max-width: 479px) {
+  .lkher-image1 {
+    width: 142px;
+    height: 39px;
+  }
+}
